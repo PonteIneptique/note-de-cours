@@ -1,1 +1,2 @@
-Bonjour les HNs
+Bonjour aux HNs
+Premier cours git
