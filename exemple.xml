@@ -2,8 +2,8 @@
   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Titre</title>
-            <author>Auteur</author>
+            <title>Epigrammes</title>
+            <author>Martial</author>
          </titleStmt>
          <publicationStmt>
             <p>Information pour la publication ou la distribution</p>
@@ -15,7 +15,7 @@
   </teiHeader>
   <text>
       <body>
-         <p>Du texte</p>
+         <p>Lorem Ipsum</p>
       </body>
   </text>
 </TEI>
